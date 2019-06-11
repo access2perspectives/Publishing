@@ -1,5 +1,4 @@
 # Publishing
-Information and Resources about Publishing and Public Relations in Science
 
 Basics and essentials about academic publishing and public releations across disciplines.
 
